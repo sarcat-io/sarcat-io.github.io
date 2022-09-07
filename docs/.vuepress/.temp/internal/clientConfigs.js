@@ -5,6 +5,7 @@ import clientConfig3 from '/Users/brianthompson/Code/SARCAT/SARCAT/Ω-sarcat-io.
 import clientConfig4 from '/Users/brianthompson/Code/SARCAT/SARCAT/Ω-sarcat-io.github.io/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
 import clientConfig5 from '/Users/brianthompson/Code/SARCAT/SARCAT/Ω-sarcat-io.github.io/node_modules/@vuepress/plugin-theme-data/lib/client/config.js'
 import clientConfig6 from '/Users/brianthompson/Code/SARCAT/SARCAT/Ω-sarcat-io.github.io/node_modules/@vuepress/theme-default/lib/client/config.js'
+import clientConfig7 from '/Users/brianthompson/Code/SARCAT/SARCAT/Ω-sarcat-io.github.io/docs/.vuepress/client.mjs'
 
 export const clientConfigs = [
   clientConfig0,
@@ -14,4 +15,5 @@ export const clientConfigs = [
   clientConfig4,
   clientConfig5,
   clientConfig6,
+  clientConfig7,
 ]
