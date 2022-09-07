@@ -1,0 +1,15 @@
+{
+  "name": "sarcat-io.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sarcat-io/sarcat-io.github.io.git",
+  "author": "Brian Thompson (SARCAT) <brian.thompson@sarcat.io>",
+  "license": "GNU CPL v3",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.51"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
